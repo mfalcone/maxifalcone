@@ -1,0 +1,16 @@
+html{
+	height: 100%;
+}
+body{
+	background-image:url(images/back.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100%;
+	background-attachment: fixed;
+}
+
+header.main-header h1{
+	background: url(images/firma.png) no-repeat;
+	text-indent: -10000px;
+}
